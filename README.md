@@ -31,12 +31,13 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![output](1.png)
 
 ### Output:
+![output](2.png)
 
-
-### Name:
-### Register Number:
+### Name: Yogeshvar M
+### Register Number: 212222230180
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
